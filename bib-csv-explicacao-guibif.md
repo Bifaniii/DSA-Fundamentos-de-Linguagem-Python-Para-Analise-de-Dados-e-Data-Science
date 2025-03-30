@@ -1,4 +1,4 @@
-**OBS.:** É importante sempre utilizar a expressão **WITH**, pois caso seja feito um **OPEN()** e não tenha um **CLOSE()**, há o risco do arquivo corromper o arquivo.
+**OBS.:** É importante sempre utilizar a expressão **WITH**, pois caso seja feito um **OPEN()** e não tenha um **CLOSE()**, há o risco de corromper o arquivo.
 
 
 ```python
